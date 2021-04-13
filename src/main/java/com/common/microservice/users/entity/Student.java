@@ -70,6 +70,7 @@ public class Student {
 		return this.id != null && this.id.equals(student.getId());
 	}
 	
+	//to get hash code of the photo
 	public Integer getPhotoHashCode(){
 		return (this.photo != null)? this.photo.hashCode():null;
 	}
