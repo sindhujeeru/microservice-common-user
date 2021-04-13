@@ -12,7 +12,7 @@
 	<artifactId>microservice-common-user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>microservice-common-user</name>
-	<description>Microservices</description>
+	<description>Microservices common user</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
